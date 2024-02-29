@@ -1,0 +1,26 @@
+[
+    {
+        "surname": "Рубен",
+        "name": "Аврам",
+        "phone": "22-00-20",
+        "description": "Питон"
+    },
+    {
+        "surname": "Бурабаш",
+        "name": "Кирил",
+        "phone": "343-32-33-33",
+        "description": "Кто-то там"
+    },
+    {
+        "surname": "Ярополк",
+        "name": "Полк",
+        "phone": "202222",
+        "description": "Поэт"
+    },
+    {
+        "surname": "Питонов",
+        "name": "Антон",
+        "phone": "777",
+        "description": "Умел в Питон"
+    }
+]
